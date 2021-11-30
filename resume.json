@@ -1,0 +1,388 @@
+{
+  "profile": {
+    "name": "Nguyen Van Nhan",
+    "profile_img": "assets/img/profile-img.jpg",
+    "twitter_url": "https://twitter.com/nhannv95",
+    "facebook_url": "https://www.facebook.com/nhan.van.566",
+    "instagram_url": "https://instagram_url",
+    "skype_url": "https://join.skype.com/invite/mSLR0WcBbu97",
+    "linkedin_url": "https://linkedin_url"
+  },
+  "hero_section": {
+    "short_name": "nhannv",
+    "jobs": ["Developer", "Trader", "Leader"]
+  },
+  "about_section": {
+    "title": "With over 4 years of experience as a developer and knowledgeable in both front-end and back-end positions. My greatest strength is RESTful API, since there are numerous applications and projects that use it nowadays, as well as hundreds of companies that do business thanks to its features.",
+    "profile_img": "assets/img/about-img.jpg",
+    "position": "Senior Developer",
+    "personal_details": "",
+    "nationality": "Vietnamese",
+    "birthday": "07 Mar 1995",
+    "marital_status": "Single",
+    "gender": "Male",
+    "age": 26,
+    "degree": "Bachelor of IT",
+    "phone_number": "(+84) 975 736 807",
+    "email": "nhannv95.it@gmail.com",
+    "more_info": "",
+    "certificate": [
+      {
+        "time": "04/2017",
+        "name": "JITEC's Information Technology Passport",
+        "degree": "-"
+      },
+      {
+        "time": "05/2017",
+        "name": "TOEIC IIG 2017",
+        "degree": "520"
+      },
+      {
+        "time": "04/2018",
+        "name": "Uipath RPA Developer Certificate",
+        "degree": "-"
+      },
+      {
+        "time": "02/2020",
+        "name": "JLPT N4",
+        "degree": "110/180"
+      }
+    ],
+    "professional_summary": [
+      "Over 4 years working experience in software development (outsourcing projects).",
+      "Have 4 years of experience as a web developer (NodeJs, VueJs, ReactJs, PHP, Java,...).",
+      "Have experience of develop RPA (Robotics Processing Automation) by Uipath.",
+      "Have experience of Microsoft Azure Services (Web App Service, Cosmos DB, Storage, Container Registry, Media Services, Azure Pipelines...)",
+      "Have experience of Firebase - Realtime database.",
+      "Have experience of converting Unicage to Spark.",
+      "Have experience of operating server, public server, network host – port.",
+      "Have experience of develop Chatbot application developed on Nodejs with usage of Express js web framework, API.AI, …",
+      "Good at Object-Oriented Programming, MVC architecture, Database management as well as create document programming and test.",
+      "Have experience of using Linux OS, Ubuntu,…",
+      "Good analytical and problem-solving capabilities.",
+      "Hard-working, high commitment and responsibility.",
+      "Capability of working in a high-pressure environment."
+    ]
+  },
+  "skills_section": {
+    "title": "The following is a list of my current skills, knowledge, and years of experience.",
+    "items": [
+      {
+        "display_side": "left",
+        "skill": "HTML/CSS/JAVASCRIP",
+        "percents": 95
+      },
+      {
+        "display_side": "left",
+        "skill": "PHP",
+        "percents": 85
+      },
+      {
+        "display_side": "left",
+        "skill": "ReactJs",
+        "percents": 80
+      },
+      {
+        "display_side": "right",
+        "skill": "NodeJs",
+        "percents": 90
+      },
+      {
+        "display_side": "right",
+        "skill": "VueJs",
+        "percents": 85
+      },
+      {
+        "display_side": "right",
+        "skill": "Java",
+        "percents": 80
+      }
+    ],
+    "practical_experience": {
+      "programming_language_tools": [
+        {
+          "name": "HTML / CSS / Jquery / Java Script",
+          "years_experience": 3
+        },
+        {
+          "name": "Web development (JSP, Servlet, Struts, Spring)",
+          "years_experience": 3
+        },
+        {
+          "name": "Source Control Management Tool (Gitlab, Github, SVN)",
+          "years_experience": 3
+        },
+        {
+          "name": "NodeJS",
+          "years_experience": 3
+        },
+        {
+          "name": "Teraterm / Putty",
+          "years_experience": 2
+        },
+        {
+          "name": "C# .Net, VBA",
+          "years_experience": 1
+        },
+        {
+          "name": "VueJs / ReactJs",
+          "years_experience": 1
+        },
+        {
+          "name": "PHP",
+          "years_experience": 1
+        },
+        {
+          "name": "Redis",
+          "years_experience": 0.5
+        },
+        {
+          "name": "Scala",
+          "years_experience": 0.5
+        },
+        {
+          "name": "Go",
+          "years_experience": 0.5
+        }
+      ],
+      "databases": [
+        {
+          "name": "MySQL",
+          "years_experience": 3
+        },
+        {
+          "name": "MongoDB",
+          "years_experience": 2.5
+        },
+        {
+          "name": "MS SQL Server",
+          "years_experience": 1
+        },
+        {
+          "name": "Oracle",
+          "years_experience": 0.5
+        }
+      ],
+      "cloud_computing": [
+        {
+          "name": "Azure Services",
+          "years_experience": 1
+        },
+        {
+          "name": "Azure DevOps",
+          "years_experience": 0.5
+        }
+      ]
+    }
+  },
+  "resume_section": {
+    "title": "As a dedicated and energetic young developer with <strong>over 4 years</strong> of experience, I am knowledgeable and skilled in both front-end and back-end roles. I am enthusiastic about learning new technologies in order to improve the quality of my job, and I am eager to share what I have learned with my coworkers. I hope I can contribute to the company's growth.",
+    "name": "Nguyen Van Nhan",
+    "introduction": "With over <b>4 years</b> of experience as a developer and knowledgeable in both front-end and back-end positions. My greatest strength is RESTful API, since there are numerous applications and projects that use it nowadays, as well as hundreds of companies that do business thanks to its features.",
+    "address": "K01/29 Hoang Van Thai, Hoa Minh, Lien Chieu, Da Nang",
+    "phone": "(+84) 975 736 807",
+    "email": "nhannv95.it@gmail.com",
+    "education": [
+      {
+        "school_name": "DUY TAN UNIVERSITY",
+        "duration": "2013 - 2017",
+        "majors": "Software Engineering - CMU",
+        "details": "I studied software engineering at Duy Tan University in 4 years, during this time I have participated in many of the activities of programming. In addition, the knowledge that I have been there by my own self-education on the books and the internet."
+      }
+    ],
+    "history": [
+      {
+        "workplace": "DEVELOPER AT FPT SOFTWARE DANANG",
+        "duration": "6/2017 – 3/2020",
+        "address": "FPT Building, Road No.1, Danang Industrial Zone An Don, An Hai Bac ward, Son Tra District, Da Nang City, Vietnam",
+        "details": "I've been with FPT Software for nearly three years. Fsoft was the first company where I worked, and it was there that I learnt a lot about programming languages through different projects. In addition, the members of the project team have learned many things of professional experience as well as the skills to communicate and work in a team."
+      },
+      {
+        "workplace": "DEVELOPER AT PARACEL TECHNOLOGY SOLUTION",
+        "duration": "4/2020 – Now",
+        "address": "Road No.1 (15B3), Bui Ta Han Street, Ngu Hanh Son District, Danang City, Vietnam",
+        "details": "Paracel Technology Solutions.Ltd is where I currently work. The working environment here is a great work culture, with an emphasis on innovation and new technology. Boss Vuong is a friendly and kind individual, yet he can sometimes be grumpy :)"
+      }
+    ],
+    "project_experience": [
+      {
+        "project_name": "AWLLite Cloud",
+        "positions": "Team Leader",
+        "duration": "Apr 2021 - now",
+        "general_info": "Members size: 4",
+        "description": [
+          "Responsibility for develop Cloud Backend API & Dashboard.",
+          "This Cloud server provides a RESTful API for controlling configuration settings, storage, hardware, model, get logs, and other aspects of devices/tablets used in department stores. With the primary goal of collecting/analyzing AI data on all customers and preventing any thefts.",
+          "Support for uploading/downloading the record video from a device to an Azure storage through Cloud server.",
+          "Generate and receive an RTMP endpoint URL for usage in a device for live streaming.",
+          "The Dashboard Server page may also be used to manage and set device parameters in real time."
+        ],
+        "project_scope": ["Analyze", "Development", "Testing"],
+        "technology_used": {
+          "run_time_env": ["OS Server: Windows7/ Linux (Ubuntu)"],
+          "development_env": [
+            "Nodejs Restful API",
+            "Docker, Azure DevOps",
+            "ReactJs",
+            "HTML/JavaScript"
+          ],
+          "databases": [
+            "Google Cloud Database (MySql)",
+            "Firebase Realtime Database",
+            "Azure CosmosDB (MongoDB)"
+          ],
+          "tools": ["Visual Studio Code", "Github/Git"]
+        }
+      },
+      {
+        "project_name": "Yes-me",
+        "positions": "Team Leader",
+        "duration": "Jan 2021 - Apr 2021",
+        "general_info": "Members size: 5",
+        "description": [
+          "Responsibility for develop Back-end, API.",
+          "This web app provides functions to support manage talents, stars, live stream, channel youtube and some actions/activities as a social network."
+        ],
+        "project_scope": ["Design", "Development", "Testing"],
+        "technology_used": {
+          "run_time_env": ["OS Server: Windows7/ Linux (Ubuntu)"],
+          "development_env": ["Nodejs API", "ReactJs", "JavaScript"],
+          "databases": ["MySQL"],
+          "tools": ["Visual Studio Code", "Gitlab/Git"]
+        }
+      },
+      {
+        "project_name": "Team Sport",
+        "positions": "Back-end Team Leader",
+        "duration": "Jul 2020 – Dec 2020",
+        "general_info": "Members size: 10",
+        "description": [
+          "Responsibility for develop Back-end, API.",
+          "This mobile app provides functions to support manage sport team, members, storage, sharing post and some actions/activities as a social network.",
+          "Providing scoreboard to update point realtime."
+        ],
+        "project_scope": ["Design", "Development", "Testing"],
+        "technology_used": {
+          "run_time_env": ["OS Server: Linux (Ubuntu)", "Android/MacOS"],
+          "development_env": ["Java Spring, API", "VueJs", "JavaScript"],
+          "databases": ["MySQL"],
+          "tools": ["Tomcat", "WinSCP", "Gitlab/Git"]
+        }
+      },
+      {
+        "project_name": "GPS-Tracking ecosystem",
+        "positions": "Developer",
+        "duration": "Mar 2020 – Jul 2020",
+        "general_info": "Members size: 5",
+        "description": [
+          "System for tracking gps of vehicles.",
+          "Receive packages from ~40K devices for 10s.",
+          "Track vehicles journey and show up on a self-build map (openstreetmap).",
+          "Build batch job for generating missing gps & reverse geocoding from gps coordinates to address."
+        ],
+        "project_scope": [
+          "Solution Advice",
+          "Development",
+          "Testing (UT, Stress test)"
+        ],
+        "technology_used": {
+          "run_time_env": ["OS Server: Windows 7/ Linux (Redhat, Ubuntu)"],
+          "development_env": [
+            "NodeJs, Go",
+            "Express framework, Openstreetmap, Open Source Routing Machine (OSRM)",
+            "HTML5/CSS, MDBootstrap"
+          ],
+          "databases": ["MongoDB", "MySQL", "Postgresql"],
+          "tools": ["Visual Studio Code", "WinSCP", "Gitlab/Git"]
+        }
+      },
+      {
+        "project_name": "Unicage <=> Spark Conversion",
+        "positions": "Developer",
+        "duration": "August 2019 – Feb 2020",
+        "general_info": "Members size: 6",
+        "description": [
+          "Move data analyzing system to AWS cloud.",
+          "Convert 54 data-analyzing functions from Unicage/Shell to Spark Scala.",
+          "Convert 50 Unit Commands of Unicage to Scalar."
+        ],
+        "project_scope": ["Solution Advice", "Development", "Testing"],
+        "technology_used": {
+          "run_time_env": ["OS Server: Windows 7/ Linux (Redhat, Ubuntu)"],
+          "development_env": ["Shell", "Spark Scalar", "Unicage"],
+          "databases": [""],
+          "tools": ["Putty", "Teraterm", "WinSCP"]
+        }
+      },
+      {
+        "project_name": "Aka Assistant (Chatbot)",
+        "positions": "Developer",
+        "duration": "Jan 2019 – Aug 2019",
+        "general_info": "Members size: 6",
+        "description": [
+          "Web Application for managing, monitoring, executing command in server by online.",
+          "Using Chatbot to control Redmine, Jenkins, Docker.",
+          "Integrating the CI-CD system, monitoring server, task management system, cloud services into a single service to provide information and support Users.",
+          "Integrating AI to predict/recommend next action."
+        ],
+        "project_scope": [
+          "Research",
+          "Coding",
+          "Design UI",
+          "Deployment",
+          "UT-IT"
+        ],
+        "technology_used": {
+          "run_time_env": ["OS Server: Windows 7/Linux"],
+          "development_env": ["NodeJs", "BootstrapV3", "JS/Jquery", "API.AI"],
+          "databases": ["MongoDB"],
+          "tools": ["Gateone", "AWS", "Jenkins/Redmine", "WinSCP"]
+        }
+      },
+      {
+        "project_name": "RPA for K System",
+        "positions": "Developer",
+        "duration": "Dec 2017 – Dec 2018",
+        "general_info": "Members size: 4",
+        "description": [
+          "Using Uipath to automate these below functions: Update user password, Update public expenditure receipt, Create Delivery Notice file, Export Delivery Notice file, Create auto log work tool.",
+          "Create VBA Macro for Uipath calling."
+        ],
+        "project_scope": ["Training", "Coding", "Unit testing"],
+        "technology_used": {
+          "run_time_env": ["OS Server: Windows 7/Windows XP"],
+          "development_env": ["Uipath Studio"],
+          "databases": ["MySQL"],
+          "tools": [""]
+        }
+      },
+      {
+        "project_name": "S System",
+        "positions": "Developer",
+        "duration": "Jan 2017 – Dec 2017",
+        "general_info": "Members size: 10",
+        "description": [
+          "Build Health management system (employees, calendar, booking schedule…)."
+        ],
+        "project_scope": [
+          "Requirement analysis",
+          "Design UI",
+          "Coding & Unit testing"
+        ],
+        "technology_used": {
+          "run_time_env": ["OS Server: Windows 7/Windows XP"],
+          "development_env": ["PHP", "JavaScript", "C#, VBA"],
+          "databases": ["Oracle"],
+          "tools": ["Visual Studio"]
+        }
+      }
+    ]
+  },
+  "contacts": {
+    "description": "Below are some ways to get in touch with me.",
+    "location": "K01/29/9/16 Hoang Van Thai, Hoa Minh, Lien Chieu, Da Nang",
+    "email": "nhannv95.it@gmail.com",
+    "phone": "(+84) 975 736 807",
+    "map_url": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d958.5465080164678!2d108.16812897063109!3d16.055833314394324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1zSzAxIEhvw6BuZyBWxINuIFRow6FpLCBIw7JhIE1pbmgsIExpw6puIENoaeG7g3UsIMSQw6AgTuG6tW5n!5e0!3m2!1svi!2s!4v1629962916578!5m2!1svi!2s"
+  }
+}
