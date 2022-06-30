@@ -10,7 +10,7 @@
   },
   "hero_section": {
     "short_name": "nhannv",
-    "jobs": ["Developer", "Trader", "Leader"]
+    "jobs": ["Developer", "Leader"]
   },
   "about_section": {
     "title": "With over 4 years of experience as a developer and knowledgeable in both front-end and back-end positions. My greatest strength is RESTful API, since there are numerous applications and projects that use it nowadays, as well as hundreds of companies that do business thanks to its features.",
@@ -21,7 +21,7 @@
     "birthday": "07 Mar 1995",
     "marital_status": "Single",
     "gender": "Male",
-    "age": 26,
+    "age": 27,
     "degree": "Bachelor of IT",
     "phone_number": "(+84) 975 736 807",
     "email": "nhannv95.it@gmail.com",
@@ -54,6 +54,7 @@
       "Have experience of develop RPA (Robotics Processing Automation) by Uipath.",
       "Have experience of Microsoft Azure Services (Web App Service, Cosmos DB, Storage, Container Registry, Media Services, Azure Pipelines...)",
       "Have experience of Firebase - Realtime database.",
+      "Have experience of Odoo ERP Management.",
       "Have experience of converting Unicage to Spark.",
       "Have experience of operating server, public server, network host – port.",
       "Have experience of develop Chatbot application developed on Nodejs with usage of Express js web framework, API.AI, …",
@@ -129,7 +130,7 @@
           "years_experience": 1
         },
         {
-          "name": "PHP",
+          "name": "Laravel/PHP",
           "years_experience": 1
         },
         {
@@ -143,6 +144,10 @@
         {
           "name": "Go",
           "years_experience": 0.5
+        },
+        {
+          "name": "Python",
+          "years_experience": 0.5
         }
       ],
       "databases": [
@@ -153,6 +158,10 @@
         {
           "name": "MongoDB",
           "years_experience": 2.5
+        },
+        {
+          "name": "PostgreSQL",
+          "years_experience": 1
         },
         {
           "name": "MS SQL Server",
@@ -179,7 +188,7 @@
     "title": "As a dedicated and energetic young developer with <strong>over 4 years</strong> of experience, I am knowledgeable and skilled in both front-end and back-end roles. I am enthusiastic about learning new technologies in order to improve the quality of my job, and I am eager to share what I have learned with my coworkers. I hope I can contribute to the company's growth.",
     "name": "Nguyen Van Nhan",
     "introduction": "With over <b>4 years</b> of experience as a developer and knowledgeable in both front-end and back-end positions. My greatest strength is RESTful API, since there are numerous applications and projects that use it nowadays, as well as hundreds of companies that do business thanks to its features.",
-    "address": "K01/29 Hoang Van Thai, Hoa Minh, Lien Chieu, Da Nang",
+    "address": "K304/22/08 Truong Chinh, Hoa An, Cam Le, Da Nang",
     "phone": "(+84) 975 736 807",
     "email": "nhannv95.it@gmail.com",
     "education": [
@@ -202,13 +211,45 @@
         "duration": "4/2020 – Now",
         "address": "Road No.1 (15B3), Bui Ta Han Street, Ngu Hanh Son District, Danang City, Vietnam",
         "details": "Paracel Technology Solutions.Ltd is where I currently work. The working environment here is a great work culture, with an emphasis on innovation and new technology. Boss Vuong is a friendly and kind individual, yet he can sometimes be grumpy :)"
+      },
+      {
+        "workplace": "ON-SITE AT D-SOFT JOINT STOCK COMPANY",
+        "duration": "4/2021 – 7/2022",
+        "address": " 10 Hai Phong Street, Thach Thang Ward, Hai Chau District, Da Nang city, Vietnam",
+        "details": "I was assigned to work on-site at D-soft company while I was employed by Paracel."
       }
     ],
     "project_experience": [
       {
+        "project_name": "D-SOFT Management System",
+        "positions": "Team Leader",
+        "duration": "Jan 2022 - Jul 2022",
+        "general_info": "Members size: 10",
+        "description": [
+          "Is an enterprise resource planning (ERP) system that helps businesses manage human resources, projects, project estimation, booking resources, timekeeping, and employee evaluation by using Odoo ERP.",
+          "Solution ERP Management.",
+          "Standardized Process Management Resource.",
+          "Easy Management Project.",
+          "Communication: Discuss (Chat/Meeting Video Call)."
+        ],
+        "project_scope": ["Research", "Analyze", "Development", "Deployment", "Testing"],
+        "technology_used": {
+          "run_time_env": ["OS Server: Windows10/ MacOS(M1), Linux (Ubuntu 20.04)"],
+          "development_env": [
+            "Odoo v15",
+            "Python 3.8",
+            "HTML/JavaScript"
+          ],
+          "databases": [
+            "PostgreSQL"
+          ],
+          "tools": ["Visual Studio Code", "Github/Git"]
+        }
+      },
+      {
         "project_name": "AWLLite Cloud",
         "positions": "Team Leader",
-        "duration": "Apr 2021 - now",
+        "duration": "Apr 2021 - Jan 2022",
         "general_info": "Members size: 4",
         "description": [
           "Responsibility for develop Cloud Backend API & Dashboard.",
@@ -380,9 +421,9 @@
   },
   "contacts": {
     "description": "Below are some ways to get in touch with me.",
-    "location": "K01/29/9/16 Hoang Van Thai, Hoa Minh, Lien Chieu, Da Nang",
+    "location": "K304/22/08 Truong Chinh, Hoa An, Cam Le, Da Nang",
     "email": "nhannv95.it@gmail.com",
     "phone": "(+84) 975 736 807",
-    "map_url": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d958.5465080164678!2d108.16812897063109!3d16.055833314394324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1zSzAxIEhvw6BuZyBWxINuIFRow6FpLCBIw7JhIE1pbmgsIExpw6puIENoaeG7g3UsIMSQw6AgTuG6tW5n!5e0!3m2!1svi!2s!4v1629962916578!5m2!1svi!2s"
+    "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.268322898672!2d108.17986581516502!3d16.05155998889193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3142190e8d2d9e1d%3A0xa0dbca9267281e3d!2zMzA0IFRyxrDhu51uZyBDaGluaCwgSG_DoCBBbiwgQ-G6qW0gTOG7hywgxJDDoCBO4bq1bmcgNTUwMDAwLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1656391616378!5m2!1svi!2s"
   }
 }
