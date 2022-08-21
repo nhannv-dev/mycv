@@ -163,6 +163,15 @@ const getParent = (element, selector) => {
         loadResume: async function () {
             this.resume = this.resume || await this.getResume()
         },
+        checkNewUpdate: async function () {
+            let resume = await this.getResume()
+            let lastUpdate = resume.last_update
+
+            if (this.resume?.last_update != lastUpdate) {
+                localStorage.removeItem(RESUME_STORAGE_KEY)
+            }
+            await this.loadResume()
+        },
         renderSkills: function (skill) {
             return `<div class="progress">
                         <span class="skill">${skill.skill}<i class="val">${skill.percents}%</i></span>
@@ -301,7 +310,7 @@ const getParent = (element, selector) => {
                 resumeSelector.about_section.birthday.innerText = this.resume.about_section.birthday
                 resumeSelector.about_section.marital_status.innerText = this.resume.about_section.marital_status
                 resumeSelector.about_section.gender.innerText = this.resume.about_section.gender
-                resumeSelector.about_section.age.innerText = this.resume.about_section.age
+                resumeSelector.about_section.age.innerText = new Date().getFullYear() - this.resume.about_section.birth_year
                 resumeSelector.about_section.degree.innerText = this.resume.about_section.degree
                 resumeSelector.about_section.phone_number.innerText = this.resume.about_section.phone_number
                 resumeSelector.about_section.email.innerText = this.resume.about_section.email
@@ -355,7 +364,7 @@ const getParent = (element, selector) => {
             }
         }
     }
-    await resumeJsonData.loadResume()
+    await resumeJsonData.checkNewUpdate()
     resumeJsonData.renderResume()
 
     /**
