@@ -13,7 +13,7 @@
     "jobs": ["Developer", "Leader"]
   },
   "about_section": {
-    "title": "With over 4 years of experience as a developer and knowledgeable in both front-end and back-end positions. My greatest strength is RESTful API, since there are numerous applications and projects that use it nowadays, as well as hundreds of companies that do business thanks to its features.",
+    "title": "With over 6 years of experience as a developer and knowledgeable in both front-end and back-end positions. My greatest strength is RESTful API, since there are numerous applications and projects that use it nowadays, as well as hundreds of companies that do business thanks to its features.",
     "profile_img": "assets/img/about-img.jpg",
     "position": "Senior Developer",
     "personal_details": "",
@@ -22,7 +22,7 @@
     "birth_year": 1995,
     "marital_status": "Single",
     "gender": "Male",
-    "age": 27,
+    "age": 29,
     "degree": "Bachelor of IT",
     "phone_number": "(+84) 975 736 807",
     "email": "nhannv95.it@gmail.com",
@@ -50,17 +50,17 @@
       }
     ],
     "professional_summary": [
-      "Over 4 years working experience in software development (outsourcing projects).",
-      "Have 4 years of experience as a web developer (NodeJs, VueJs, ReactJs, PHP, Java,...).",
-      "Have experience of develop RPA (Robotics Processing Automation) by Uipath.",
-      "Have experience of Microsoft Azure Services (Web App Service, Cosmos DB, Storage, Container Registry, Media Services, Azure Pipelines...)",
-      "Have experience of Firebase - Realtime database.",
-      "Have experience of Odoo ERP Management.",
-      "Have experience of converting Unicage to Spark.",
-      "Have experience of operating server, public server, network host – port.",
-      "Have experience of develop Chatbot application developed on Nodejs with usage of Express js web framework, API.AI, …",
+      "Over 6 years working experience in software development (outsourcing projects).",
+      "Have 4 years in experience as a web developer (NodeJs, VueJs, ReactJs, PHP, Java,...).",
+      "(RoboticsHave experience in develop RPA  Processing Automation) by Uipath.",
+      "Have over 2 years working experience in Odoo ERP Management.",
+      "Have experience in Microsoft Azure Services (Web App Service, Cosmos DB, Storage, Container Registry, Media Services, Azure Pipelines...)",
+      "Have experience in Firebase - Realtime database.",
+      "Have experience in converting Unicage to Spark.",
+      "Have experience in operating server, public server, network host – port.",
+      "Have experience in develop Chatbot application developed on Nodejs with usage of Express js web framework, API.AI, …",
       "Good at Object-Oriented Programming, MVC architecture, Database management as well as create document programming and test.",
-      "Have experience of using Linux OS, Ubuntu,…",
+      "Have experience in using Linux OS, Ubuntu,…",
       "Good analytical and problem-solving capabilities.",
       "Hard-working, high commitment and responsibility.",
       "Capability of working in a high-pressure environment."
@@ -98,20 +98,25 @@
         "display_side": "right",
         "skill": "Java",
         "percents": 80
+      },
+      {
+        "display_side": "left",
+        "skill": "Odoo ERP",
+        "percents": 85
       }
     ],
     "practical_experience": {
       "programming_language_tools": [
         {
           "name": "HTML / CSS / Jquery / Java Script",
-          "years_experience": 3
-        },
-        {
-          "name": "Web development (JSP, Servlet, Struts, Spring)",
-          "years_experience": 3
+          "years_experience": 6
         },
         {
           "name": "Source Control Management Tool (Gitlab, Github, SVN)",
+          "years_experience": 6
+        },
+        {
+          "name": "Web development (JSP, Servlet, Struts, Spring)",
           "years_experience": 3
         },
         {
@@ -119,7 +124,15 @@
           "years_experience": 3
         },
         {
+          "name": "Odoo ERP",
+          "years_experience": 2.5
+        },
+        {
           "name": "Teraterm / Putty",
+          "years_experience": 2
+        },
+        {
+          "name": "Python",
           "years_experience": 2
         },
         {
@@ -135,10 +148,6 @@
           "years_experience": 1
         },
         {
-          "name": "Odoo ERP",
-          "years_experience": 1
-        },
-        {
           "name": "Redis",
           "years_experience": 0.5
         },
@@ -149,10 +158,6 @@
         {
           "name": "Go",
           "years_experience": 0.5
-        },
-        {
-          "name": "Python",
-          "years_experience": 0.5
         }
       ],
       "databases": [
@@ -161,12 +166,12 @@
           "years_experience": 3
         },
         {
-          "name": "MongoDB",
-          "years_experience": 2.5
+          "name": "PostgreSQL",
+          "years_experience": 3
         },
         {
-          "name": "PostgreSQL",
-          "years_experience": 1
+          "name": "MongoDB",
+          "years_experience": 2.5
         },
         {
           "name": "MS SQL Server",
@@ -190,10 +195,10 @@
     }
   },
   "resume_section": {
-    "title": "As a dedicated and energetic young developer with <strong>over 4 years</strong> of experience, I am knowledgeable and skilled in both front-end and back-end roles. I am enthusiastic about learning new technologies in order to improve the quality of my job, and I am eager to share what I have learned with my coworkers. I hope I can contribute to the company's growth.",
+    "title": "As a dedicated and energetic young developer with <strong>over 6 years</strong> of experience, I am knowledgeable and skilled in both front-end and back-end roles. I am enthusiastic about learning new technologies in order to improve the quality of my job, and I am eager to share what I have learned with my coworkers. I hope I can contribute to the company's growth.",
     "name": "Nguyen Van Nhan",
-    "introduction": "With over <b>4 years</b> of experience as a developer and knowledgeable in both front-end and back-end positions. My greatest strength is RESTful API, since there are numerous applications and projects that use it nowadays, as well as hundreds of companies that do business thanks to its features.",
-    "address": "K304/22/08 Truong Chinh, Hoa An, Cam Le, Da Nang",
+    "introduction": "With over <b>6 years</b> of experience as a developer and knowledgeable in both front-end and back-end positions. My greatest strength is RESTful API, since there are numerous applications and projects that use it nowadays, as well as hundreds of companies that do business thanks to its features.",
+    "address": "Hoa Khuong, Hoa Vang, Da Nang, Viet Nam",
     "phone": "(+84) 975 736 807",
     "email": "nhannv95.it@gmail.com",
     "education": [
@@ -214,7 +219,7 @@
       {
         "workplace": "DEVELOPER AT PARACEL TECHNOLOGY SOLUTION",
         "duration": "4/2020 – Now",
-        "address": "Road No.1 (15B3), Bui Ta Han Street, Ngu Hanh Son District, Danang City, Vietnam",
+        "address": "A.157 Bui Ta Han Street, Thuan Nhi Building - 3rd Floor, Ngu Hanh Son District, Danang City, Vietnam",
         "details": "Paracel Technology Solutions.Ltd is where I currently work. The working environment here is a great work culture, with an emphasis on innovation and new technology. Boss Vuong is a friendly and kind individual, yet he can sometimes be grumpy :)"
       },
       {
@@ -225,6 +230,56 @@
       }
     ],
     "project_experience": [
+      {
+        "project_name": "US Webseeds Odoo",
+        "positions": "Developer",
+        "duration": "Mar 2023 - Now",
+        "general_info": "Members size: 10",
+        "description": [
+          "<strong>Objective:</strong> To enhance the functionality of the <strong>Odoo ERP</strong> system by customizing existing modules and developing new ones, aiming to streamline business processes and improve operational efficiency.",
+          "<strong>Key responsibilities:</strong> <ul><li>Analyzing business requirements and translating them into technical specifications.</li><li>Customizing base Odoo modules (Sales, Purchase, Manufacturing, Inventory, PLM, Helpdesk, Document…) to meet specific business needs.</li><li>Developing new modules and features to extend the functionality of the Odoo ERP system.</li><li>Integrating Odoo with third-party applications like Shopify.</li><li>Conducting thorough testing and quality assurance to ensure seamless integration and functionality.</li><li>Providing technical support and training to end-users.</li></ul>",
+          "<strong>Modules developed and customized:</strong> <ol><li>After-Sale Service (from Sales module):<ul><li>RMA Orders: Developed a Return Merchandise Authorization system to manage returns efficiently, track returned items, and process refunds or replacements.</li><li>Order Cancellation: Implemented a feature allowing customers to cancel orders under certain conditions, with automated workflows for approval and processing.</li><li>RTS Order (Return to Sender): Created a system for handling return-to-sender cases, managing logistics, and updating inventory accordingly.</li><li>Dropship Refund Order: Developed a module to handle refunds for dropship orders, integrating with suppliers and automating the refund process.</li><li>Chargeback Order: Implemented a chargeback management system to handle disputed transactions, track status, and automate communications with payment processors.</li></ul></li><li>Forecasting System (from Manufacturing, Purchasing, PLM modules) developed a comprehensive forecasting module that:<ul><li>Pre-issues Manufacturing Orders (MOs) and upcoming RFQs.</li><li>Estimates production time and resource allocation for MOs.</li><li>Automatically Kick-of the PLM (ECOs).</li><li>Generates detailed annual and monthly sales reports.</li><li>Sends automated forecasting notifications dynamically based on real-time data.</li></ul></li><li>Helpdesk module:<ul><li>Auto Generate Tickets: Enabled automatic ticket generation via website forms from Shopify and through email.</li><li>Customized Helpdesk Overview: Created a personalized Helpdesk dashboard with sections for My Tickets, My Outbound Tickets, and Team Tickets.</li><li>Knowledge Base Integration: Added a feature to convert completed tickets into knowledge base articles.</li><li>Internal Ticket Rating: Implemented a rating system for internal tickets with options for Awesome, Accept, and Reject.</li><li>Employee KPI Report: Developed a module to track and report on employee Key Performance Indicators (KPIs).</li><li>Recurring Tickets and Workflows: Set up recurring tickets and workflows based on the type of inquiry to streamline repetitive tasks.</li></ul></li><li>Document module:<ul><li>NFC Renewal Document Management: Created a workflow for managing NFC renewal documents, ensuring secure and efficient handling of sensitive information.</li></ul></li></ol>",
+          "<strong>Challenges Faced:</strong> <ul><li>Ensuring seamless integration between customized modules and existing Odoo functionalities.</li><li>Managing complex business requirements and translating them into efficient technical solutions.</li><li>Handling data migration and ensuring data integrity during the customization process.</li></ul>",
+          "<strong>Achievements/Results:</strong> <ul><li>Successfully customized and deployed multiple Odoo modules, significantly improving business processes.</li><li>Enhanced customer satisfaction through efficient after-sale service and automated helpdesk operations.</li><li>Improved forecasting accuracy and production planning, leading to better resource management and cost savings.</li><li>Streamlined document management processes, ensuring compliance and security.</li></ul>"
+        ],
+        "project_scope": ["Research", "Analyze", "Development", "Deployment", "Testing"],
+        "technology_used": {
+          "run_time_env": ["OS Server: Windows10/ MacOS(M1), Linux (Ubuntu 20.04)"],
+          "development_env": [
+            "Spring Boot",
+            "MyBatis",
+            "Socket / Batch",
+            "HTML/JavaScript"
+          ],
+          "databases": [
+            "MySQL"
+          ],
+          "tools": ["Visual Studio Code", "JUnit", "Github/Git"]
+        }
+      },
+      {
+        "project_name": "Careco System",
+        "positions": "Team Leader",
+        "duration": "Jul 2022 - Mar 2023",
+        "general_info": "Members size: 6",
+        "description": [
+          "Careco system provides Car Sharing service such as owner/member/station/bill/fee/car/car-share-service management."
+        ],
+        "project_scope": ["Research", "Analyze", "Development", "Deployment", "Testing"],
+        "technology_used": {
+          "run_time_env": ["OS Server: Windows10/ MacOS(M1), Linux (Ubuntu 20.04)"],
+          "development_env": [
+            "Spring Boot",
+            "MyBatis",
+            "Socket / Batch",
+            "HTML/JavaScript"
+          ],
+          "databases": [
+            "MySQL"
+          ],
+          "tools": ["Visual Studio Code", "JUnit", "Github/Git"]
+        }
+      },
       {
         "project_name": "D-SOFT Management System",
         "positions": "Team Leader",
@@ -426,10 +481,10 @@
   },
   "contacts": {
     "description": "Below are some ways to get in touch with me.",
-    "location": "K610/11/16 Ton Dan, Hoa Phat, Cam Le, Da Nang",
+    "location": "Hoa Khuong, Hoa Vang, Da Nang, Viet Nam",
     "email": "nhannv95.it@gmail.com",
     "phone": "(+84) 975 736 807",
-    "map_url": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1023.9366599736778!2d108.18374750330635!3d16.03614700181316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1661051780955!5m2!1svi!2s"
+    "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61378.8520171075!2d108.04559582297271!3d15.952065135720805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421d258330d191%3A0xb3e4faf15793d5d7!2zSG_DoCBLaMawxqFuZywgSMOyYSBWYW5nLCDEkMOgIE7hurVuZywgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1720751766708!5m2!1svi!2s"
   },
-  "last_update": "2022/21/08"
+  "last_update": "2024/12/07"
 }
