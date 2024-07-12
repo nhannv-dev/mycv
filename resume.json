@@ -244,17 +244,18 @@
         ],
         "project_scope": ["Research", "Analyze", "Development", "Deployment", "Testing"],
         "technology_used": {
-          "run_time_env": ["OS Server: Windows10/ MacOS(M1), Linux (Ubuntu 20.04)"],
+          "run_time_env": ["OS Server: Windows11/ MacOS(M2), Linux (Ubuntu 20.04)"],
           "development_env": [
-            "Spring Boot",
-            "MyBatis",
-            "Socket / Batch",
-            "HTML/JavaScript"
+            "Odoo ERP version 15",
+            "Python 3.8",
+            "Shopify Integration",
+            "RESTful APIs",
+            "HTML/CSS/JavaScript"
           ],
           "databases": [
-            "MySQL"
+            "PostgreSQL"
           ],
-          "tools": ["Visual Studio Code", "JUnit", "Github/Git"]
+          "tools": ["Visual Studio Code", "Github/Git"]
         }
       },
       {
