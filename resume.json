@@ -13,7 +13,7 @@
     "jobs": ["Developer", "Leader"]
   },
   "about_section": {
-    "title": "With over 6 years of experience as a developer and knowledgeable in both front-end and back-end positions. My greatest strength is RESTful API, since there are numerous applications and projects that use it nowadays, as well as hundreds of companies that do business thanks to its features.",
+    "title": "Experienced Odoo Developer with nearly 8 years in software development, including 4 years specializing in ERP customization and business process automation. Proven expertise in developing and customizing Odoo modules across Sales, Purchase, Manufacturing, Inventory, PLM, Helpdesk, etc... Strong background in full-stack development with proficiency in Python, JavaScript, and RESTful API integration.",
     "profile_img": "assets/img/about-img.jpg",
     "position": "Senior Developer",
     "personal_details": "",
@@ -22,7 +22,7 @@
     "birth_year": 1995,
     "marital_status": "Single",
     "gender": "Male",
-    "age": 29,
+    "age": 30,
     "degree": "Bachelor of IT",
     "phone_number": "(+84) 975 736 807",
     "email": "nhannv95.it@gmail.com",
@@ -50,10 +50,10 @@
       }
     ],
     "professional_summary": [
-      "Over 6 years working experience in software development (outsourcing projects).",
-      "Have 4 years in experience as a web developer (NodeJs, VueJs, ReactJs, PHP, Java,...).",
-      "(RoboticsHave experience in develop RPA  Processing Automation) by Uipath.",
-      "Have over 2 years working experience in Odoo ERP Management.",
+      "Nearly 8 years of working experience in software development (outsourcing projects).",
+      "Have 5 years in experience as a web developer (NodeJs, VueJs, ReactJs, PHP, Java,...).",
+      "Have experience in developing RPA (Robotics Processing Automation) by Uipath.",
+      "Have 4 years working experience in Odoo ERP customization and development.",
       "Have experience in Microsoft Azure Services (Web App Service, Cosmos DB, Storage, Container Registry, Media Services, Azure Pipelines...)",
       "Have experience in Firebase - Realtime database.",
       "Have experience in converting Unicage to Spark.",
@@ -109,23 +109,23 @@
       "programming_language_tools": [
         {
           "name": "HTML / CSS / Jquery / Java Script",
-          "years_experience": 6
+          "years_experience": 9
         },
         {
           "name": "Source Control Management Tool (Gitlab, Github, SVN)",
-          "years_experience": 6
+          "years_experience": 9
         },
         {
           "name": "Web development (JSP, Servlet, Struts, Spring)",
-          "years_experience": 3
+          "years_experience": 4
         },
         {
           "name": "NodeJS",
-          "years_experience": 3
+          "years_experience": 5
         },
         {
           "name": "Odoo ERP",
-          "years_experience": 2.5
+          "years_experience": 6
         },
         {
           "name": "Teraterm / Putty",
@@ -133,7 +133,7 @@
         },
         {
           "name": "Python",
-          "years_experience": 2
+          "years_experience": 6
         },
         {
           "name": "C# .Net, VBA",
@@ -141,7 +141,7 @@
         },
         {
           "name": "VueJs / ReactJs",
-          "years_experience": 1
+          "years_experience": 3
         },
         {
           "name": "Laravel/PHP",
@@ -163,11 +163,11 @@
       "databases": [
         {
           "name": "MySQL",
-          "years_experience": 3
+          "years_experience": 5
         },
         {
           "name": "PostgreSQL",
-          "years_experience": 3
+          "years_experience": 6
         },
         {
           "name": "MongoDB",
@@ -195,9 +195,9 @@
     }
   },
   "resume_section": {
-    "title": "As a dedicated and energetic young developer with <strong>over 6 years</strong> of experience, I am knowledgeable and skilled in both front-end and back-end roles. I am enthusiastic about learning new technologies in order to improve the quality of my job, and I am eager to share what I have learned with my coworkers. I hope I can contribute to the company's growth.",
+    "title": "Experienced Odoo Developer with <strong>nearly 8 years</strong> in software development, including <strong>4 years specializing in Odoo ERP</strong> customization and business process automation. Proven track record in developing complex Odoo modules for Sales, Purchase, Manufacturing, Inventory, PLM, Helpdesk, etc... Passionate about leveraging technology to solve business challenges and drive operational efficiency. Strong team player with excellent problem-solving skills and commitment to delivering high-quality solutions.",
     "name": "Nguyen Van Nhan",
-    "introduction": "With over <b>6 years</b> of experience as a developer and knowledgeable in both front-end and back-end positions. My greatest strength is RESTful API, since there are numerous applications and projects that use it nowadays, as well as hundreds of companies that do business thanks to its features.",
+    "introduction": "With nearly <b>8 years</b> of experience in full-stack software development, including <b>4 years specializing in Odoo ERP</b> customization and development. Expertise in customizing and developing Odoo modules, integrating third-party systems, and automating business processes. Strong proficiency in Python, JavaScript, RESTful APIs, and database management with PostgreSQL.",
     "address": "Hoa Khuong, Hoa Vang, Da Nang, Viet Nam",
     "phone": "(+84) 975 736 807",
     "email": "nhannv95.it@gmail.com",
@@ -217,8 +217,8 @@
         "details": "I've been with FPT Software for nearly three years. Fsoft was the first company where I worked, and it was there that I learnt a lot about programming languages through different projects. In addition, the members of the project team have learned many things of professional experience as well as the skills to communicate and work in a team."
       },
       {
-        "workplace": "DEVELOPER AT PARACEL TECHNOLOGY SOLUTION",
-        "duration": "4/2020 – Now",
+        "workplace": "ODOO DEVELOPER AT PARACEL TECHNOLOGY SOLUTION",
+        "duration": "4/2020 – Present",
         "address": "A.157 Bui Ta Han Street, Thuan Nhi Building - 3rd Floor, Ngu Hanh Son District, Danang City, Vietnam",
         "details": "Paracel Technology Solutions.Ltd is where I currently work. The working environment here is a great work culture, with an emphasis on innovation and new technology. Boss Vuong is a friendly and kind individual, yet he can sometimes be grumpy :)"
       },
@@ -232,8 +232,8 @@
     "project_experience": [
       {
         "project_name": "US Webseeds Odoo",
-        "positions": "Developer",
-        "duration": "Mar 2023 - Now",
+        "positions": "Odoo Developer",
+        "duration": "Mar 2023 - Feb 2026",
         "general_info": "Members size: 10",
         "description": [
           "<strong>Objective:</strong> To enhance the functionality of the <strong>Odoo ERP</strong> system by customizing existing modules and developing new ones, aiming to streamline business processes and improve operational efficiency.",
@@ -487,5 +487,5 @@
     "phone": "(+84) 975 736 807",
     "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61378.8520171075!2d108.04559582297271!3d15.952065135720805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421d258330d191%3A0xb3e4faf15793d5d7!2zSG_DoCBLaMawxqFuZywgSMOyYSBWYW5nLCDEkMOgIE7hurVuZywgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1720751766708!5m2!1svi!2s"
   },
-  "last_update": "2024/12/07"
+  "last_update": "2026/02/22"
 }
