@@ -13,7 +13,7 @@
     "jobs": ["Developer", "Leader"]
   },
   "about_section": {
-    "title": "Experienced Odoo Developer with nearly 8 years in software development, including 4 years specializing in ERP customization and business process automation. Proven expertise in developing and customizing Odoo modules across Sales, Purchase, Manufacturing, Inventory, PLM, Helpdesk, etc... Strong background in full-stack development with proficiency in Python, JavaScript, and RESTful API integration.",
+    "title": "Experienced Odoo Developer with nearly 9 years in software development, including 4 years specializing in ERP customization and business process automation. Proven expertise in developing and customizing Odoo modules across Sales, Purchase, Manufacturing, Inventory, PLM, Helpdesk, etc... Strong background in full-stack development with proficiency in Python, JavaScript, and RESTful API integration.",
     "profile_img": "assets/img/about-img.jpg",
     "position": "Senior Developer",
     "personal_details": "",
@@ -50,7 +50,7 @@
       }
     ],
     "professional_summary": [
-      "Nearly 8 years of working experience in software development (outsourcing projects).",
+      "Nearly 9 years of working experience in software development (outsourcing projects).",
       "Have 5 years in experience as a web developer (NodeJs, VueJs, ReactJs, PHP, Java,...).",
       "Have experience in developing RPA (Robotics Processing Automation) by Uipath.",
       "Have 4 years working experience in Odoo ERP customization and development.",
@@ -198,7 +198,7 @@
     "title": "Experienced Odoo Developer with <strong>nearly 8 years</strong> in software development, including <strong>4 years specializing in Odoo ERP</strong> customization and business process automation. Proven track record in developing complex Odoo modules for Sales, Purchase, Manufacturing, Inventory, PLM, Helpdesk, etc... Passionate about leveraging technology to solve business challenges and drive operational efficiency. Strong team player with excellent problem-solving skills and commitment to delivering high-quality solutions.",
     "name": "Nguyen Van Nhan",
     "introduction": "With nearly <b>8 years</b> of experience in full-stack software development, including <b>4 years specializing in Odoo ERP</b> customization and development. Expertise in customizing and developing Odoo modules, integrating third-party systems, and automating business processes. Strong proficiency in Python, JavaScript, RESTful APIs, and database management with PostgreSQL.",
-    "address": "Hoa Khuong, Hoa Vang, Da Nang, Viet Nam",
+    "address": "Dai Loc, Da Nang, Viet Nam",
     "phone": "(+84) 975 736 807",
     "email": "nhannv95.it@gmail.com",
     "education": [
@@ -233,7 +233,7 @@
       {
         "project_name": "US Webseeds Odoo",
         "positions": "Odoo Developer",
-        "duration": "Mar 2023 - Feb 2026",
+        "duration": "Mar 2023 - Feb 2026 <br/> Jun 2026 - Now",
         "general_info": "Members size: 10",
         "description": [
           "<strong>Objective:</strong> To enhance the functionality of the <strong>Odoo ERP</strong> system by customizing existing modules and developing new ones, aiming to streamline business processes and improve operational efficiency.",
@@ -256,6 +256,35 @@
             "PostgreSQL"
           ],
           "tools": ["Visual Studio Code", "Github/Git"]
+        }
+      },
+      {
+        "project_name": "AM Seafood ERP System",
+        "positions": "Odoo Developer",
+        "duration": "Mar 2026 - Jun 2026",
+        "general_info": "Members size: 8",
+        "description": [
+          "<strong>Objective:</strong> To develop a comprehensive <strong>Odoo ERP</strong> system for Anh Minh Seafood company, specializing in seafood processing, manufacturing, and wage management. The system integrates IoT devices, biometric attendance, and advanced manufacturing workflows to optimize production processes and ensure traceability.",
+          "<strong>Key responsibilities:</strong> <ul><li>Designed and developed several custom Odoo modules for seafood industry-specific requirements.</li><li>Integrated IoT scale devices via MQTT protocol for real-time weight measurement.</li><li>Implemented biometric attendance system using Ronald Jack FA2000 devices.</li><li>Developed complex wage calculation system with multiple calculation methods.</li><li>Created seafood-specific lot management with fishing vessel tracking and EUCC certification.</li><li>Enhanced manufacturing workflows with yield tracking and byproduct management.</li><li>Implemented REST API endpoints for external system integration.</li><li>Provided technical support and training to end-users.</li></ul>",
+          "<strong>Modules developed and customized:</strong> <ol><li>IoT & Device Integration:<ul><li>Scale Management: Integrated electronic scales via MQTT protocol for real-time weight measurement, automatic product deduction, and live dashboard monitoring.</li><li>REST API Odoo: Developed RESTful API endpoints for external system communication with GET/POST/PUT/DELETE operations.</li><li>Ronald Jack FA2000 Attendance: Integrated biometric attendance devices using ZKTeco SDK protocol (UDP/TCP) with automatic attendance sync and fingerprint management.</li></ul></li><li>Manufacturing & Production:<ul><li>Custom Manufacturing: Enhanced manufacturing orders with employee tracking, equipment quantity logs, material loss tracking, performance metrics, and productivity reports.</li><li>Custom Seafood MRP: Seafood-specific manufacturing with yield tracking per operation, intermediate product flows, daily production logs, byproduct management, and QR label generation.</li><li>Custom MRP Equipment: Equipment integration in manufacturing orders and BOMs with work center assignment.</li><li>Custom MRP: Manufacturing and payroll management with custom reports and labor cost tracking.</li></ul></li><li>Seafood-Specific Features:<ul><li>Custom Seafood Lot: Lot management with fishing vessel information, catch areas, fishing dates, landing ports, EUCC certificates, QR code generation and printing.</li><li>Custom Seafood Reports: Custom reports for seafood inventory, stock picking, and daily production summaries.</li></ul></li><li>Wage & HR Management:<ul><li>Custom Seafood Wage: Production wage calculation system supporting 4 methods: Input Team (by raw material), Output Team (by finished product), Individual Scale (by weight), and Team Scale (shared weight). Includes RFID-based employee check-in, daily wage summaries, allowance management, and export wizards.</li><li>Custom Employee Transfer: Employee transfer management in manufacturing orders with RFID tracking, department assignment, and transfer history.</li></ul></li><li>Asset & Inventory:<ul><li>Asset Management: Complete asset lifecycle management with depreciation calculation, maintenance tracking, transfer management, warranty monitoring, and financial reporting.</li><li>Custom Low Stock Alert: Automated low stock alerts with configurable rules per product category and automatic activity creation for assigned users.</li></ul></li><li>Reporting & Analytics:<ul><li>Custom Pivot Report: Dynamic pivot report generator for any Odoo model without coding requirements.</li></ul></li></ol>",
+          "<strong>Challenges Faced:</strong> <ul><li>Integrating diverse IoT devices (scales, biometric devices) with different protocols (MQTT, ZKTeco SDK).</li><li>Developing complex wage calculation algorithms with multiple methods and real-time RFID integration.</li><li>Managing seafood-specific traceability requirements (fishing vessel, catch areas, EUCC certification).</li><li>Handling real-time data synchronization between IoT devices and Odoo ERP.</li><li>Ensuring data accuracy in yield tracking and byproduct management.</li></ul>",
+          "<strong>Achievements/Results:</strong> <ul><li>Successfully deployed several custom modules, creating a comprehensive ERP system for seafood processing.</li><li>Automated wage calculation process, reducing calculation time by 80% and eliminating errors.</li><li>Implemented real-time scale integration, improving production accuracy and reducing material waste.</li><li>Enhanced traceability with fishing vessel tracking and EUCC certification management.</li><li>Streamlined attendance management with biometric device integration.</li><li>Improved production planning with yield tracking and byproduct management.</li></ul>"
+        ],
+        "project_scope": ["Research", "Analyze", "Development", "Deployment", "Testing"],
+        "technology_used": {
+          "run_time_env": ["OS Server: Linux (Ubuntu 20.04)", "IoT Devices: Electronic Scales, Biometric Devices"],
+          "development_env": [
+            "Odoo ERP version 18",
+            "Python 3.10",
+            "MQTT Protocol",
+            "ZKTeco SDK (pyzk)",
+            "RESTful APIs",
+            "HTML/CSS/JavaScript"
+          ],
+          "databases": [
+            "PostgreSQL"
+          ],
+          "tools": ["Visual Studio Code", "Github/Git", "Postman"]
         }
       },
       {
@@ -482,10 +511,10 @@
   },
   "contacts": {
     "description": "Below are some ways to get in touch with me.",
-    "location": "Hoa Khuong, Hoa Vang, Da Nang, Viet Nam",
+    "location": "Dai Loc, Da Nang, Viet Nam",
     "email": "nhannv95.it@gmail.com",
     "phone": "(+84) 975 736 807",
     "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61378.8520171075!2d108.04559582297271!3d15.952065135720805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421d258330d191%3A0xb3e4faf15793d5d7!2zSG_DoCBLaMawxqFuZywgSMOyYSBWYW5nLCDEkMOgIE7hurVuZywgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1720751766708!5m2!1svi!2s"
   },
-  "last_update": "2026/02/22"
+  "last_update": "2026/07/29"
 }
